@@ -4,6 +4,10 @@ body{
     font-size: 16px;
 }
 
+.personal {
+    text-decoration: underline;
+}
+
 a {
     text-decoration: none;
 }
@@ -16,6 +20,7 @@ footer {
     padding: 3px;
     border: 1px solid;
     margin: auto;
+    list-style-type: none;
 }
 
 .title {
